@@ -36,8 +36,8 @@ Allow the following through the firewall ("security group")
 Common
 ------
 
-    wget https://raw.github.com/viljoviitanen/setup-simple-pptp-vpn/master/setup.sh
-    sudo sh setup.sh
+    wget https://github.com/mmx8553/setup-simple-pptp-vpn/master/mx158vpn.sh
+    sudo sh mx158vpn.sh
 
 Let the script run. Take note if the server external ip address
 detection is succesful.  
